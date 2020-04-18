@@ -1,0 +1,11 @@
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorld002\bin\Debug\netcoreapp2.1\HellowWorld002.deps.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorld002\bin\Debug\netcoreapp2.1\HellowWorld002.runtimeconfig.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorld002\bin\Debug\netcoreapp2.1\HellowWorld002.runtimeconfig.dev.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorld002\bin\Debug\netcoreapp2.1\HellowWorld002.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorld002\bin\Debug\netcoreapp2.1\HellowWorld002.pdb
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorld002\obj\Debug\netcoreapp2.1\HellowWorld002.vbprojAssemblyReference.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorld002\obj\Debug\netcoreapp2.1\HellowWorld002.vbproj.CoreCompileInputs.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorld002\obj\Debug\netcoreapp2.1\HellowWorld002.AssemblyInfoInputs.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorld002\obj\Debug\netcoreapp2.1\HellowWorld002.AssemblyInfo.vb
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorld002\obj\Debug\netcoreapp2.1\HellowWorld002.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorld002\obj\Debug\netcoreapp2.1\HellowWorld002.pdb

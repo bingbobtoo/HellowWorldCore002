@@ -1,0 +1,17 @@
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\bin\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.deps.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\bin\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.runtimeconfig.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\bin\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.runtimeconfig.dev.json
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\bin\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\bin\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.pdb
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\bin\Debug\netcoreapp2.1\HellowWorld002.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\bin\Debug\netcoreapp2.1\HellowWorld002.pdb
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\obj\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.vbprojAssemblyReference.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\obj\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.vbproj.CoreCompileInputs.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\obj\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.AssemblyInfoInputs.cache
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\obj\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.AssemblyInfo.vb
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\obj\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.vbproj.CopyComplete
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\obj\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.dll
+C:\Users\banjobarney\source\repos\UnitTesting\HellowWorldCore002\HellowWorld002\HellowWorldCore002\obj\Debug\netcoreapp2.1\HellowWorldCore002UnitTests.pdb
